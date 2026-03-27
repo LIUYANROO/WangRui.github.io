@@ -9,6 +9,12 @@ redirect_from:
 lang: en
 ---
 
+<!-- 👇 就在这里加中英文切换按钮！！！ -->
+<div style="text-align: right; font-size: 16px; margin-bottom: 10px;">
+  <a href="/about.html">中文</a> | 
+  <a href="/">English</a>
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}

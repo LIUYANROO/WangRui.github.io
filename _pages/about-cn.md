@@ -3,78 +3,100 @@ permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <!-- 中英文切换 -->
 <div style="text-align: right; font-size: 16px; margin-bottom: 10px;">
-  <a href="/zh/">中文</a> | 
+  <a href="/zh/">中文</a> |
   <a href="/">English</a>
 </div>
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-刘彦汝，男，2001年10月19日生，深圳大学计算机与软件学院计算机科学与技术专业工学硕士在读，主要从事医学影像分析方向的研究，聚焦超声心动图视频分割的时空键值记忆架构研发，重点探索门控增量更新与键像素特征融合技术在实时医学影像分析中的应用。
+# 👤 关于我
 
-目前以第一作者身份在国际顶级计算机视觉会议CVPR、ICCV发表学术论文，相关研究成果在超声心动图视频分割任务中实现了分割精度与实时推理性能的双重提升，对超声伪影具备优异的鲁棒性。谷歌学术总引用数：<a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'>谷歌学术引用 <strong><span id='total_cit'>2</span></strong></a> (也可使用谷歌学术徽章 <a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LIUYANROO/WangRui.github.io/main/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+刘彦汝，本科毕业于中国传媒大学视觉传达设计专业，现于香港岭南大学攻读人工智能与商业分析硕士学位。
 
-📱 联系电话：+86 159-3855-0910
-📩 电子邮箱：wr_szu@163.com；2400101058@mails.szu.edu.cn
+📍 香港
+📩 电子邮箱：yanruliu077@163.com
+📱 电话：(+852) 5605 7741 / (+86) 175 1258 1261
+🔗 GitHub：https://github.com/LIUYANROO
+🔗 站酷：https://www.zcool.com.cn/work/ZNjQwNzYyMjQ=.html
 
-# 🔥 News
-- *2026.06*: &nbsp;🎉🎉 第一作者论文OSA被IEEE/CVF计算机视觉与模式识别会议（CVPR 2026）接收并发表
-- *2025.07*: &nbsp;🎉🎉 第一作者论文GDKVM被IEEE/CVF国际计算机视觉会议（ICCV 2025）接收为Poster并发表
-- *2024.09*: &nbsp;🎓 入学深圳大学计算机与软件学院，攻读计算机科学与技术专业工学硕士学位
+# 🎖 荣誉与奖项
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="OSA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OSA: 基于正交状态更新与解剖先验感知特征增强的超声心动图视频分割](https://scholar.google.com/citations?user=01amzbYAAAAJ)
-
-**刘彦汝**，吴惠思，秦璟
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=01amzbYAAAAJ&citation_for_view=01amzbYAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='01amzbYAAAAJ:ALROH1vI_8AC'></span></strong>
-- 提出OSA框架，融合正交化状态空间更新机制与解剖先验感知特征提升模块；
-- 增强超声心动图视频分割的时间一致性，提升分割精度；
-- 对超声伪影具备卓越鲁棒性，在标准基准数据集上达到SOTA性能。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="GDKVM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GDKVM: 基于门控增量规则的时空键值记忆超声心动图视频分割](https://scholar.google.com/citations?user=01amzbYAAAAJ)
-
-**刘彦汝**，孙一穆，郭景星，吴惠思，秦璟
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=01amzbYAAAAJ&citation_for_view=01amzbYAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='01amzbYAAAAJ:ALROH1vI_8AC'></span></strong>
-- 提出融合线性键值关联、门控增量更新规则与键像素特征融合的新型分割方法；
-- 在CAMUS和EchoNet-Dynamic数据集上实现精度与鲁棒性双提升；
-- 保持实时推理性能，适用于临床实时医学影像分析场景。
-</div>
-</div>
-
-# 🎖 Honors and Awards
-- *2024.06*: 河南大学优秀本科毕业生，获工学学士学位
+- *2024.06*: 获香港岭南大学优秀表现奖学金
 - *2020.09 - 2024.06*: 本科期间多次获得校级奖学金、三好学生荣誉称号
 
-# 📖 Educations
-- *2024.09 - 至今 (在读)*, 深圳大学 计算机与软件学院，计算机科学与技术专业，工学硕士
-- *2020.09 - 2024.06*, 河南大学 计算机与信息工程学院，数据科学与大数据技术专业，工学学士
+# 📖 教育背景
 
-# 💬 Invited Talks
-- *暂未更新*，相关研究成果将在学术会议中进行口头/海报汇报
+- *2024.09 - 2025.11 (在读)*, 香港岭南大学，人工智能与商业分析，理学硕士
+- *2021.09 - 2022.10*, 英国伦敦艺术大学，数据科学与人工智能，理学硕士
+- *2016.09 - 2020.06*, 中国传媒大学（南京），视觉传达设计，文学学士
 
-# 💻 Internships
-- *暂未更新*，聚焦学术研究与论文成果产出
+# 💼 项目经历
+
+## 产品经理实习生 - Innocn
+*2025.10 - 2025.12*
+
+- **市场调研：** 分析全球40+款32:9带鱼屏显示器，对面板和KVM方案进行技术拆解，建立定量定价模型
+- **用户洞察：** 定义设计师"无缝多任务"工作流程；提取产品独特卖点（USP）并为新一代产品定义核心规格
+- **AI与CRM集成：** 撰写PRD实现App与CRM同步自动填充；设计AI驱动的询价摘要和自动工单分流逻辑
+- **用户体验优化：** 简化App内售后流程，减少操作步骤50%，消除跨平台跳转
+
+## Flappy Bird AI Agent - 强化学习项目
+*2024.11 - 2025.02*
+
+- 独立开发Flappy Bird强化学习智能体，实现从环境配置到模型训练和结果可视化的完整流程
+- 使用Python和Pygame编写自定义游戏界面，采集实时状态数据（位置、速度、障碍物间隙）进行实时预测和动作反馈
+- 应用深度Q网络（DQN）通过奖励最大化学习最优策略，并通过Double DQN和Dueling DQN架构提升模型精度
+- 设计经验回放机制和ε-贪心策略，提升学习效率和稳定性
+- 使用Matplotlib可视化训练进度（奖励曲线、动作分布），进行超参数调优，基于学习行为优化网络结构
+
+## 图书馆管理系统 - 协作项目
+*2024.10 - 2024.12*
+
+- 使用SQL分析5000+条借阅记录；识别特定用户群体中83%的罚款率
+- 提出提醒系统方案，预计降低罚款30%；识别热门书籍缺货问题
+- 使用Tableau构建可视化仪表板，展示用户行为、语言使用和库存趋势
+- 提供多语言资源分配和系统改进的数据驱动建议
+
+## 蓝牙离线即时通讯App - 协作项目
+*2024.11 - 2025.01*
+
+- 使用MIT App Inventor开发基于蓝牙的离线通讯聊天应用（消息/图片/位置）；集成CloudDB/TinyDB实现同步和离线可用性
+- **职责：** 优化UI/UX（简化注册/登录/配对流程，提升可用性）；进行市场分析和竞品研究，基于用户反馈提出功能方案
+- **主要成果：** 将注册/登录流程简化为2步，减少用户操作负担30%；蓝牙消息送达率达95%，支持离线查看；主导UAT测试，验证核心功能和可用性；基于反馈优化7个交互场景，重大问题修复率达100%，用户满意度达92%
+
+## 房地产价格预测与回归分析 - 独立项目
+*2022.05 - 2022.06*
+
+- 分析影响房价的因素，使用房地产数据集进行价格预测
+- **数据处理与分析：** 清洗数据并提取关键特征（如距地铁距离、房龄）；进行初步统计分析
+- **模型构建：** 开发和实现线性回归和多项式回归模型进行价格预测
+- **可视化与评估：** 使用数据分析与可视化工具（直方图、散点图、趋势图）评估模型性能，解读结果并识别关键因素影响
+
+# 💬 自我评价
+
+- **数据分析能力：** 熟练掌握Python、SQL和Tableau进行数据驱动决策；擅长将复杂的AI/数据洞察转化为可执行的产品需求和流程优化方案
+- **用户体验研究与产品设计：** 精通混合方法研究（访谈、问卷调查）和用户旅程映射；能将用户痛点转化为PRD和原型设计，平衡技术可行性与可用性
+- **协作与沟通：** 具备与产品、设计和工程团队跨职能协作的能力；在快节奏环境中管理项目任务和干系人沟通的经验
+- **战略与用户导向：** 热爱数字化转型；专注于识别市场机会和提升用户体验，以创造可衡量的商业价值
+
+# 🏆 领导力与活动
+
+- *2018*, 上海时装周末 - 志愿者，负责500+嘉宾签到、场地支持与现场协调，获"优秀志愿者"称号
+- *2017 - 2018*, 青年志愿者协会 - 宣传员，负责微信公众号运营（3篇文章，2000+浏览量），共同组织300+人夜跑活动
+- *2016 - 2017*, 学生会艺术设计学院分会 - 活动策划员，策划执行3场校园活动，参与人数800+，成功率达100%
+- *2016*, 南京马拉松 - 志愿者，协助赛事后勤、跑者支持和物资分发，获"优秀志愿者"称号
+
+# 🛠 技术栈
+
+- **数据分析：** Python, SQL, Tableau
+- **用户研究：** 问卷设计、深度访谈、用户画像、旅程映射
+- **设计工具：** Photoshop, Illustrator, Sketch, Figma, InDesign, Word, CapCut, Adobe XD, C4D, After Effects, Premiere Pro, Excel, PowerPoint, Spark
+- **语言：** 普通话、英语

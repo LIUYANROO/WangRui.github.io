@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "刘彦汝-Rui Wang"
-description              : "刘彦汝的学术主页 | Rui Wang's Academic Homepage. "
-repository               : "https://github.com/LIUYANROO/WangRui.github.io"
+title                    : "刘彦汝 - Yanru Liu"
+description              : "刘彦汝的学术主页 | Yanru Liu's Academic Homepage"
+repository               : "https://github.com/LIUYANROO/LIUYANROO.github.io"
 google_scholar_stats_use_cdn : true
 
 # 多语言设置（中英双语）
@@ -28,9 +28,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "刘彦汝 / Rui Wang"
+  name             : "刘彦汝 / Yanru Liu"
   avatar           : "images/apple-icon-180x180.png"
-  bio              : "深圳大学 计算机与软件学院 工学硕士在读"
+  bio              : "深圳大学 计算机与软件学院 计算机科学与技术 硕士在读"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -154,6 +154,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

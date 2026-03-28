@@ -43,7 +43,7 @@ As the first author, I have published research papers in top-tier international 
 
 [OSA: Echocardiography Video Segmentation via Orthogonalized State Update and Anatomical Prior-aware Feature Enhancement](https://scholar.google.com/citations?user=01amzbYAAAAJ)
 
-**Rui Wang** (First Author), Huisi Wu, Jing Qin
+**Yanru Liu** (First Author), Huisi Wu, Jing Qin
 
 Status: Accepted to IEEE/CVF CVPR, June 2026
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=01amzbYAAAAJ&citation_for_view=01amzbYAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='01amzbYAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -58,7 +58,7 @@ Status: Accepted to IEEE/CVF CVPR, June 2026
 
 [GDKVM: Echocardiography Video Segmentation via Spatiotemporal Key-Value Memory with Gated Delta Rule](https://scholar.google.com/citations?user=01amzbYAAAAJ)
 
-**Rui Wang** (First Author), Yimu Sun, Jingxing Guo, Huisi Wu, Jing Qin
+**Yanru Liu** (First Author), Yimu Sun, Jingxing Guo, Huisi Wu, Jing Qin
 
 Status: Accepted as Poster Presentation at IEEE/CVF ICCV 2025, July 2025
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=01amzbYAAAAJ&citation_for_view=01amzbYAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='01amzbYAAAAJ:ALROH1vI_8AC'></span></strong>

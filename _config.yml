@@ -8,8 +8,7 @@
 # Site Settings
 title                    : "刘彦汝 - Yanru Liu"
 description              : "刘彦汝的学术主页 | Yanru Liu's Academic Homepage"
-repository               : "https://github.com/LIUYANROO/LIUYANROO.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "https://github.com/LIUYANROO/liuyanroo.github.io"
 
 # 多语言设置（中英双语）
 languages:

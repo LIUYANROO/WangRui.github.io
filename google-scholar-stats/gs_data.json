@@ -19,7 +19,7 @@
   ],
   "email_domain": "@mails.szu.edu.cn",
   "homepage": "https://wangrui2025.github.io/",
-  "citedby": 2,
+  "citedby": 3,
   "publications": {
     "01amzbYAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -30,21 +30,32 @@
       },
       "filled": false,
       "author_pub_id": "01amzbYAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 2,
+      "num_citations": 3,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9281669226140416404",
       "cites_id": [
         "9281669226140416404"
       ]
+    },
+    "01amzbYAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OSA: Echocardiography Video Segmentation via Orthogonalized State Update and Anatomical Prior-aware Feature Enhancement",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "01amzbYAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
     }
   },
-  "citedby5y": 2,
+  "citedby5y": 3,
   "hindex": 1,
   "hindex5y": 1,
   "i10index": 0,
   "i10index5y": 0,
   "cites_per_year": {
     "2025": 1,
-    "2026": 1
+    "2026": 2
   },
-  "updated": "2026-04-01 09:04:11.856781"
+  "updated": "2026-04-04 08:40:05.963477"
 }
